@@ -15,6 +15,7 @@
 
 <p align="left">🎓I’m currently pursuing my BTech in Guru Ghasidas University<br>🌱 I’m currently learning Backend Development<br>👀 I’m interested in Full Stack Web Development<br>👯 I’m looking to collaborate on OpenSource Projects<br>✨ Creating bugs since 2020<br>🎯 Goals: To learn the new evolving technologies (learning never stops)<br>✍️ Random Dev Quote: "There's only one trick in software, and that is using a piece of software that's already been written."      -Bill Gates<br>📫 How to reach me chavakulagovind@gmail.com</p>
 
+
 ###
 
 <h3 align="left">Languages :</h3>
