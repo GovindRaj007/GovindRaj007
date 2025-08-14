@@ -3,7 +3,7 @@
 
 ###
 
-<h3 align="center">Software Engineer 👨‍💻</h3>
+<h3 align="center">MERN Stack Developer (6+ Months YOE) | React.js, Redux | TypeScript, JavaScript, Node.js | Crafting Scalable Web Apps | Open to Full-Time Roles | Software Trainee Engineer @ Kellton</h3>
 
 ###
 
