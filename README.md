@@ -3,7 +3,7 @@
 
 ###
 
-<h3 align="center">A Frontend Web Developer 👨‍💻</h3>
+<h3 align="center">Software Engineer 👨‍💻</h3>
 
 ###
 
@@ -13,9 +13,7 @@
 
 ###
 
-- 🎓I’m currently pursuing my **BTech in Guru Ghasidas University**
-
-- 🌱 I’m currently learning **Backend Development**
+- 🎓I’m currently working as Trainee Software Engineer @Kellton**
 
 - 👀 I’m interested in **Full Stack Web Development**
 
@@ -25,9 +23,9 @@
 
 - 🎯 Goals: To learn the new evolving technologies (learning never stops)
 
-- 👨‍💻 All of my projects are available at [Chavakula Govind Portfolio](https://govindraj-portfolio.netlify.app/)
+- 👨‍💻 All of my projects are available at [Chavakula Govind Portfolio](https://govind-portfolio-lg.vercel.app/)
 
-- 📫 How to reach me **chavakulagovind@gmail.com**
+- 📫 How to reach me **govindchavakula.859@gmail.com**
 
 
 ###
